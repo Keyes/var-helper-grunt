@@ -22,6 +22,6 @@
   "author": "Julian Kern <mail@juliankern.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.0"
   }
 }
